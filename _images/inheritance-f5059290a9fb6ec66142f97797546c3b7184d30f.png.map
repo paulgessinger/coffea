@@ -1,0 +1,14 @@
+<map id="inheritance947584f597" name="inheritance947584f597">
+<area shape="rect" id="node1" title="ABC for an accumulator" alt="" coords="5,353,120,376"/>
+<area shape="rect" id="node13" title="An appendable numpy ndarray" alt="" coords="171,310,309,332"/>
+<area shape="rect" id="node15" title="A defaultdict with accumulator semantics" alt="" coords="163,266,318,289"/>
+<area shape="rect" id="node16" title="A dictionary with accumulator semantics" alt="" coords="182,353,299,376"/>
+<area shape="rect" id="node17" title="A set with accumulator semantics" alt="" coords="183,397,297,419"/>
+<area shape="rect" id="node18" title="Holds a value of arbitrary type" alt="" coords="177,441,303,463"/>
+<area shape="rect" id="node6" title="Simple delayed uproot reader (a la lazyarrays)" alt="" coords="640,157,748,179"/>
+<area shape="rect" id="node10" title="A dataframe for instances like spark where the columns are preloaded" alt="" coords="624,200,763,223"/>
+<area shape="rect" id="node9" title="Store boolean mask vectors in a compact manner" alt="" coords="6,92,118,114"/>
+<area shape="rect" id="node11" title="ABC for a generalized processor" alt="" coords="13,48,112,71"/>
+<area shape="rect" id="node12" title="Container for event weights and associated systematic shifts" alt="" coords="31,5,94,27"/>
+<area shape="rect" id="node14" title="defaultdict(default_factory[, ...]) &#45;&#45;&gt; dict with default factory" alt="" coords="23,266,102,289"/>
+</map>

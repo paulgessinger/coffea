@@ -1,0 +1,31 @@
+Interval
+========
+
+.. currentmodule:: coffea.hist
+
+.. autoclass:: Interval
+   :show-inheritance:
+
+   .. rubric:: Attributes Summary
+
+   .. autosummary::
+
+      ~Interval.hi
+      ~Interval.label
+      ~Interval.lo
+
+   .. rubric:: Methods Summary
+
+   .. autosummary::
+
+      ~Interval.nan
+
+   .. rubric:: Attributes Documentation
+
+   .. autoattribute:: hi
+   .. autoattribute:: label
+   .. autoattribute:: lo
+
+   .. rubric:: Methods Documentation
+
+   .. automethod:: nan
